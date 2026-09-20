@@ -1,0 +1,6 @@
+{
+  "name": "SpamShield",
+  "description": "AI-powered spam, phishing, and malicious email identifier with analytics dashboard and ML engine comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
